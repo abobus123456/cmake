@@ -1,0 +1,3 @@
+/Users/artyomromanteev/desktop/temp1/CMakeFiles/cmake_test.dir
+/Users/artyomromanteev/desktop/temp1/CMakeFiles/edit_cache.dir
+/Users/artyomromanteev/desktop/temp1/CMakeFiles/rebuild_cache.dir
